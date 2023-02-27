@@ -11,6 +11,8 @@
 body {
   padding-top: 40px;
 }
+h1,h2,h3 {font-family: "Google Sans", Roboto, Helvetica Neue, Arial, sans-serif;}
+h4,h5,h6 {font-family: "Google Sans Text", Roboto, Helvetica Neue, Arial, sans-serif;}
 
 * {
   border-radius: 0 !important;
